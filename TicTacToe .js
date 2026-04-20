@@ -6,8 +6,8 @@ public class TicTacToe {
 
     
     public static void main(String[] args) {
-        tossAndAssignSymbols();
-        displayTossResult();
+        int slot = getUserSlot();
+		System.out.printin("Slot entered :
     }
     static void tossAndAssignSymbols() {
 
